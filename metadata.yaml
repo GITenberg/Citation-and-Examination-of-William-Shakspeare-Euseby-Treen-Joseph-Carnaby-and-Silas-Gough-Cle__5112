@@ -1,0 +1,30 @@
+_repo: Citation-and-Examination-of-William-Shakspeare-Euseby-Treen-Joseph-Carnaby-and-Silas-Gough-Cle__5112
+creator:
+  author:
+    agent_name: Landor, Walter Savage
+    alias: Landor, Savagius
+    birthdate: 1775
+    deathdate: 1864
+    gutenberg_agent_id: '1353'
+    url: http://www.gutenberg.org/2009/agents/1353
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Savage_Landor
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5112'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Biographical fiction'
+- !lcsh 'Spenser, Edmund, 1552?-1599 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Essex, Robert Devereux, Earl of, 1566-1601 -- Fiction'
+- !lcsh 'Great Britain -- History -- Elizabeth, 1558-1603 -- Fiction'
+- !lcsh 'Dramatists -- Fiction'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Fiction'
+title: Citation and Examination of William Shakspeare, Euseby Treen, Joseph Carnaby,
+  and Silas Gough, Clerk
+url: http://www.gutenberg.org/ebooks/5112
