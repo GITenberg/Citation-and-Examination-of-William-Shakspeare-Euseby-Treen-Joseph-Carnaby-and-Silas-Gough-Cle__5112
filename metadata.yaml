@@ -1,5 +1,5 @@
 _repo: Citation-and-Examination-of-William-Shakspeare-Euseby-Treen-Joseph-Carnaby-and-Silas-Gough-Cle__5112
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,6 +31,7 @@ subjects:
 - !lcsh 'Great Britain -- History -- Elizabeth, 1558-1603 -- Fiction'
 - !lcsh 'Dramatists -- Fiction'
 - !lcsh 'Shakespeare, William, 1564-1616 -- Fiction'
+- GITenberg
 title: Citation and Examination of William Shakspeare, Euseby Treen, Joseph Carnaby,
   and Silas Gough, Clerk
 url: http://www.gutenberg.org/ebooks/5112
